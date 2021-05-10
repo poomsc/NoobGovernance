@@ -1,0 +1,1 @@
+export const factoryNoobGovernance = "0x843BBfcff3a298ff79aCA31f13E3a393d0151439"
